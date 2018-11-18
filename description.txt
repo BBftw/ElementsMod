@@ -1,0 +1,18 @@
+~ Power of the Elements ~
+
+This is a mod planned to include lots of custom content in the distant future. Currently it includes this content:
+
+ - Magmite (A new material). Currently the ore does not spawn 
+   so you'll have to get it through Cheat Sheet or something
+ - Magmite ore and bar
+ - A Magmite sword that shoots explosive projectiles
+ - An unfinished Magmite magic staff that shoots piercing 
+   flying lava rocks
+
+
+Planned content includes:
+
+ - A boss
+ - An invasion
+ - 4 new materials (including Magmite) and weapon/tool/armour
+   sets to go with them

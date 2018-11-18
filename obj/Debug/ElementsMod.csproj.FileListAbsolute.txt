@@ -1,0 +1,2 @@
+C:\Users\pixelBoy23\Documents\My Games\Terraria\ModLoader\Mod Sources\ElementsMod\obj\Debug\ElementsMod.csprojAssemblyReference.cache
+C:\Users\pixelBoy23\Documents\My Games\Terraria\ModLoader\Mod Sources\ElementsMod\obj\Debug\ElementsMod.csproj.CoreCompileInputs.cache
