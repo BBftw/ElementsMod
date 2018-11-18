@@ -1,4 +1,4 @@
 author = World's Biggest...
-version = 0.1
+version = 0.1.1
 displayName = [c/ffa500:Power of the Elements]
-homepage = https://www.google.com/search?q=haha%20hello
+homepage = https://forums.terraria.org/index.php?threads/power-of-the-elements-soon-to-be-great.74299/
